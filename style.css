@@ -1,0 +1,53 @@
+h1,
+h2,
+h3 {
+  text-align: center;
+  margin: 20px;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(9, 15, 63);
+}
+h1 {
+  font-size: 22px;
+  font-weight: 200;
+}
+h2 {
+  font-size: 25px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+ul {
+  list-style: none;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+li {
+  padding: 10px;
+  color: rgb(9, 15, 63);
+}
+form {
+  display: block;
+  margin: 0 auto;
+  padding: 30px;
+}
+.container {
+  padding-top: 20px;
+  max-width: 900px;
+}
+.days {
+  text-align: left;
+}
+.images {
+  text-align: right;
+}
+.temperature {
+  display: block;
+  text-align: center;
+  font-size: 45px;
+  color: orange;
+}
+.units {
+  font-size: small;
+  position: relative;
+  top: -20px;
+}
